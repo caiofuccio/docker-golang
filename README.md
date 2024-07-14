@@ -9,5 +9,5 @@ docker pull
 Para executá-la basta utilizar o seguinte comando
 
 ```bash
-docker run caiofuccio/golang-minimal
+docker run caiofuccio/golang-hello
 ```
